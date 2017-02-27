@@ -6,22 +6,22 @@ A day-by-day structured deep dive into the basics JavaScript. Read articles, wat
 
 Your objectives for the day is to achieve:
 
-- Basic understanding of variables
-- Basic string and array manipulation
-- Understand 'truthy' and 'falsey'
-- Understand literal notation
-- Understand dot bracket notation
-- Basic understanding of JSON
-- Understand Operator precedence
-- Practice Flow control: iteration, if, switch, while, for loops
-- Understand and practice Functions: arguments, arity, return, scope
++ Basic understanding of variables
++ Basic string and array manipulation
++ Understand 'truthy' and 'falsey'
++ Understand literal notation
++ Understand dot bracket notation
++ Basic understanding of JSON
++ Understand Operator precedence
++ Practice Flow control: iteration, if, switch, while, for loops
++ Understand and practice Functions: arguments, arity, return, scope
 
 ### Plan
 
-- [ ] Signup for [Udacity Javascript Basics][udacity]
-- [ ] Complete [Getting up and running & Problem Set 0][udacity]
-- [ ] Complete [Data Types and Problem Set 1][udacity]
-- [ ] Complete [Flow Control and Problem Set 2][udacity]
++ [ ] Signup for [Udacity Javascript Basics][udacity]
++ [ ] Complete [Getting up and running & Problem Set 0][udacity]
++ [ ] Complete [Data Types and Problem Set 1][udacity]
++ [ ] Complete [Flow Control and Problem Set 2][udacity]
 - [ ] Complete [Quiz: Relationships][udacity]
 - [ ] Complete [Quiz: Astronaut Arrays][udacity]
 - [ ] Complete [Quiz: Pagespeed Insights][udacity]

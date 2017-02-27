@@ -1,19 +1,19 @@
 describe("About Objects", function () {
 
   describe("Properties", function () {
-    var megalomaniac;
+    var megalomaniac = {};
 
     beforeEach(function () {
        megalomaniac = {  mastermind: "Joker", henchwoman: "Harley" };
     });
 
     it("should confirm objects are collections of properties", function () {
-      expect(megalomaniac.mastermind).toBe(FILL_ME_IN);
+      expect(megalomaniac.mastermind).toBe("Joker");
     });
 
     it("should confirm that properties are case sensitive", function () {
-      expect(megalomaniac.henchwoman).toBe(FILL_ME_IN);
-      expect(megalomaniac.henchWoman).toBe(FILL_ME_IN);
+      expect(megalomaniac.henchwoman).toBe("Harley");
+      expect(megalomaniac.henchWoman).toBe("Harley");
     });
   });
 
